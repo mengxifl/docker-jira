@@ -9,7 +9,7 @@ And You need run a db server by your self.
 ## How to use
 
 1. download those repositories to /docker
-2. download confluence file from https://www.atlassian.com/software/jira/download-archives. and unzip all the subdir files to jiraBinFiles
+2. download git file from https://www.atlassian.com/software/jira/download-archives. and unzip all the subdir files to jiraBinFiles
 3. run `cd /docker/ && docker build -t jira:v9 .` to build a image
 
 ```
